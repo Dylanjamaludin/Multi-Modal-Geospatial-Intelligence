@@ -1,4 +1,4 @@
-<img src="https://github.com/Dylanjamaludin/Multi-Modal-Geospatial-Intelligence/blob/main/Interface/splashScreen/image%201%402x.png" width="500px" height="auto">
+<img src="https://github.com/Dylanjamaludin/Multi-Modal-Geospatial-Intelligence/blob/main/Interface/splashScreen/image%201%402x.png" width="100%" height="auto">
 
 # Multi-Modal Geospatial Intelligence
 
